@@ -26,3 +26,13 @@ mt-static と plugins を、Movable Type のインストールディレクトリ
 同梱している寿司ゆきのイラストはすべて awayuki さん作の『折り詰め寿司ゆき』を使用しています。
 
 『折り詰め寿司ゆき』は[クリエイティブ・コモンズライセンス (CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)で提供されています。
+
+##その他
+
+このプラグインは hibiki さん作の EmojiForTinyMCE を基に作成されています。
+
+[hibiki/EmojiForTinyMCE](https://github.com/hibiki/EmojiForTinyMCE)
+
+プラグインの動作確認は、v6.0.3 上でのみ行っております。本プラグインの動作に関するお問い合わせは、下記 Blog 記事のコメント欄、もしくは Blog に記載の連絡先までお送りください。
+
+[「寿司ゆき」 イラストを Movable Type のリッチエディタ （TinyMCE） で使えるプラグイン 「SushiForTinyMCE」 を作ってみた ： WWW WATCH](http://hyper-text.org/archives/2014/06/movable_type_sushi_for_tinymce.shtml)
