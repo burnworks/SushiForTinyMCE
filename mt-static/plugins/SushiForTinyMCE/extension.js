@@ -12,8 +12,8 @@ $.extend(config, {
 
 $.extend(config.plugin_mt_inlinepopups_window_sizes, {
     '/sushi.html': {
-        width: 420,
-        height: 350
+        width: 580,
+        height: 400
     }
 });
 
