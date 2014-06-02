@@ -23,6 +23,6 @@ mt-static と plugins を、Movable Type のインストールディレクトリ
 
 ## 寿司ゆきイラストについて
 
-同梱している 寿司ゆきのイラストはすべてawayukiさん作の『折り詰め寿司ゆき』を使用しています。
+同梱している寿司ゆきのイラストはすべて awayuki さん作の『折り詰め寿司ゆき』を使用しています。
 
 『折り詰め寿司ゆき』は[クリエイティブ・コモンズライセンス (CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)で提供されています。
