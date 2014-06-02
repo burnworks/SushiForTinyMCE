@@ -1,0 +1,14 @@
+id: SushiForTinyMCE
+name: SushiForTinyMCE
+version: 1.00
+doc_link: https://github.com/burnworks/SushiForTinyMCE
+author_link: http://hyper-text.org/
+author_name: Yoshiki Kato (burnworks)
+description: <MT_TRANS phrase="Add sushiyuki icon table for TinyMCE.">
+l10n_lexicon:
+    ja:
+        Add sushiyuki icon table for TinyMCE.: "TinyMCE に寿司ゆきアイコンを追加します。"
+
+editors:
+    tinymce:
+        extension: extension.tmpl

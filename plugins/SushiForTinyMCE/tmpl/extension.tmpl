@@ -1,0 +1,12 @@
+<mt:setvarblock name="js_include" append="1">
+<script src="<mt:var name="static_uri">plugins/SushiForTinyMCE/extension.js"></script>
+
+<script>
+tinyMCE.PluginManager.load('sushi', '<mt:var name="static_uri">plugins/SushiForTinyMCE/tinymce/editor_plugin<mt:unless name="optimize_ui">_src</mt:unless>.js');
+</script>
+
+</mt:setvarblock>
+
+<mt:setvarblock name="html_head" append="1">
+<link rel="stylesheet" href="<mt:var name="static_uri">plugins/SushiForTinyMCE/skin/ui.css" />
+</mt:setvarblock>
