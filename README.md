@@ -21,6 +21,13 @@ Movable Type 5.2 から標準搭載されているリッチエディタ TinyMCE 
 
 mt-static と plugins を、Movable Type のインストールディレクトリにアップロードしてください。
 
+    $MT_HOME/
+        plugins/
+            SushiForTinyMCE/
+        mt-static/
+            plugins/
+                SushiForTinyMCE/
+
 ## 寿司ゆきイラストについて
 
 同梱している寿司ゆきのイラストはすべて awayuki さん作の『折り詰め寿司ゆき』を使用しています。
